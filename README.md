@@ -23,6 +23,10 @@
 
 ##
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeangregolon&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangregolon&layout=compact&theme=dark)](https://github.com/jeangregolon/github-readme-stats)
+<h3> 📚 Github Stats: <br></h3>
+  
+<div>
+  <a href="[https://github.com/jeangregolon](https://github.com/jeangregolon)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeangregolon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangregolon&layout=compact&langs_count=16&theme=dark"/>
+</div>
